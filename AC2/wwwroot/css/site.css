@@ -1,0 +1,63 @@
+html {
+  font-size: 14px;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+table{
+  width: "100%";
+  border: "1px";
+  border-color: aquamarine;
+  border-style: dotted;
+}
+td{
+  border:1px solid aquamarine;
+  border-style: dotted;
+}
+
+.sistemas{
+  background-color: aqua;
+}
+.entorns{
+  background-color: rgb(238, 197, 95);
+}
+.bd{
+  background-color: azure;
+}
+.progra{
+  background-color: peachpuff;
+}
+.dades{
+  background-color: rgb(201, 238, 145);
+}
+.fol{
+  background-color: blanchedalmond;
+}
+.ldm{
+  background-color: paleturquoise;
+}
+#horario{
+  font-size: 60px;
+  background: -webkit-linear-gradient(left,paleturquoise, azure);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#anotacion{
+  background-color: aliceblue;
+}
+
+/* ABOUT ME  */
+#tomate{
+   color: red;
+}
+img.pequeña{
+  width: 50%;
+}
